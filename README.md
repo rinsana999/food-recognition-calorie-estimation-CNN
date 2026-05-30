@@ -85,3 +85,15 @@ Food-Recognition-CNN/
 ├── requirements.txt
 
 └── sample_images/
+
+## Model File:
+
+Due to GitHub file size limitations, the trained model and sample images are hosted on Google Drive.
+
+📁 Google Drive Folder:
+https://drive.google.com/drive/folders/1Mi1WSnO6aTp5wqsYUBQqV4X7qLwXiAf5?usp=drive_link
+
+Contents:
+- food11_model.keras
+- Prediction screenshot
+  
