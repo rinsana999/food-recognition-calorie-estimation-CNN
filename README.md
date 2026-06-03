@@ -96,4 +96,4 @@ https://drive.google.com/drive/folders/1Mi1WSnO6aTp5wqsYUBQqV4X7qLwXiAf5?usp=dri
 Contents:
 - food11_model.keras
 - Prediction screenshot
-- FOOD_RECOGNITION&CALORIE_ESTIMATION.ipynb 
+  
